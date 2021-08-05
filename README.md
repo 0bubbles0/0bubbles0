@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Barbara, I'm based in London and becoming a web developer
+#### My name is Barbara, I'm based in London and becoming a Software Developer
 
 😄 *Pronouns*: she/her
 
