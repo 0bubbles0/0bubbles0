@@ -6,12 +6,14 @@
 
 🌱*Current Program*: Pre-apprenticeship with **Founders and Coders Cohort 22**
 
+🌱 *This week*, I’m learning about **async JavaScript**
+
 🌱*Previously*, I learned about 
-  - Semantic HTML5
-  - CSS3 (flexbox, grid, BEM) 
-  - JavaScript ES6 & DOM manipulation
-  - Accessibility (WCAG standards, colour contrasts, assistive tools)
-  - Git
+  - Semantic **HTML**5
+  - **CSS**3 (flexbox, grid, BEM) 
+  - **JavaScript** & DOM manipulation
+  - **Accessibility** (WCAG standards, colour contrasts, assistive tools)
+  - **Git**
  
 🌱 Tools I have used:
   - GitHub
@@ -19,8 +21,6 @@
   - Figma, Notion, colour palette generators
 
 🌱 I'm always learning, follow my journey!
-
-🌱 *This week*, I’m learning about **async JavaScript**
 
 ⚡ Fun fact: I like playing the violin & can name all the countries of the world
 
