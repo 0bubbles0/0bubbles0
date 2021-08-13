@@ -20,7 +20,7 @@
 🌱 Some Tools that I have been using and learning about were
   - GitHub
   - VS Code, Terminal
-  - Figma, Notion, colour palette generators
+  - Figma, Notion, colour palette generators, screen reader
 
 🌱 I'm always learning, follow my journey!
 
