@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### My name is Barbara, I'm based in London and becoming a Software Developer
+#### My name is Barbara, I'm a London-based Software Engineer
 
 😄 *Pronouns*: she/her
 
 ⚡ Fun fact: I like playing the violin & can name all the countries of the world
-
+<!--
 🌱*Current Program*: Pre-apprenticeship with **Founders and Coders Cohort 22**
 
 🌱 *This week*, I’m learning about **using APIs**
@@ -32,7 +32,7 @@ If you'd like to view my progress yourself, please visit
   - <https://github.com/0bubbles0/fac22-pre-projects>: The home of my learnings and areas of focus during the **pre-apprenticesip program**, which keeps changing every day 
 
 The coming months will be very exciting, as our cohort will be diving into topics such as **React**, **Databases**, **Testing** and **Deployment** to really round our developer toolkits. Personally, I will also be working on improving my design and accessibility skills, so that I can very soon make an impact by helping to bring real solutions and visions to life!
-
+-->
 
 📫 I am always eager to hear stories and experiences from other developers, so please connect with me, raise Issues in my repos with feedback, recommendations or ask me for advice yourself! 👍
 
