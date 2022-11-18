@@ -1,13 +1,16 @@
-### My name is Barbara
+<p align="right">
+<img width="400" src="https://github.com/0bubbles0/fcc-web-projects/blob/main/fcc-final-showcase/5-portfolio/resources/img/logo/logo-250-100.png">
+</p>
 
-#### I'm a London-based Software Engineer
+#### I'm a London-based Software Engineer <a href="https://www.linkedin.com/in/barbara-az"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"></a>
+
 
 😄 *Pronouns*: she/her
 
 ⚡ Fun fact: I like playing the violin & can name all the countries of the world
 
 
-### 🚆 My road to coding
+## 🚆 My road to coding
 
   1. [**My entirely self-taught projects**](https://codepen.io/0Bubbles0) for the **freeCodeCamp Responsive Web Design** course in February/March 2021
   2. [**My application to fac22**](https://github.com/0bubbles0/fac-22-application), which is also a good introduction to my life, values and ideas from May 2021
@@ -17,7 +20,7 @@
   6. 🏆🎉🌟 My current commercial role 🌟🎉🏆 Working at a fast-paced Start up, I love quickly adapting to new challenges to plan and deliver reliable software solutions across the stack.
 
 
-### 🧰 My Toolbox
+## 🧰 My Toolbox
 
 <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
 
@@ -26,7 +29,7 @@
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Nest.js">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku">
 
 
-### 📫 Get in touch
+## 📫 Get in touch
 I am always eager to hear stories and experiences from other developers, so please connect with me, raise Issues in my repos with feedback, recommendations or ask me for advice yourself! 👍
 
 <!--
@@ -78,4 +81,8 @@ Here are some ideas to get you started:
 -->
 
 
-<!--[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0/github-readme-stats)-->
+<!--[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0/github-readme-stats)
+
+[![Barbara’s GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0bubbles0&layout=compact)](https://github.com/0bubbles0)-->
