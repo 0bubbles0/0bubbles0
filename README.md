@@ -1,5 +1,6 @@
 <p align="right">
-<img width="400" src="https://github.com/0bubbles0/fcc-web-projects/blob/main/fcc-final-showcase/5-portfolio/resources/img/logo/logo-250-100.png">
+<!--<img width="400" src="https://github.com/0bubbles0/fcc-web-projects/blob/main/fcc-final-showcase/5-portfolio/resources/img/logo/logo-250-100.png">-->
+<img src="https://user-images.githubusercontent.com/77367593/202780268-2b03a671-39d0-4275-94b0-2e9fc6bea346.png">
 </p>
 
 #### I'm a London-based full-stack Software Engineer <a href="https://www.linkedin.com/in/barbara-az"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"></a>
