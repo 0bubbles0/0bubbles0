@@ -1,12 +1,34 @@
-### Hi there 👋
+### My name is Barbara
 
-#### My name is Barbara, I'm a London-based Software Engineer
-
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0/github-readme-stats)
+#### I'm a London-based Software Engineer
 
 😄 *Pronouns*: she/her
 
 ⚡ Fun fact: I like playing the violin & can name all the countries of the world
+
+
+### 🚆 My road to coding
+
+  1. [**My entirely self-taught projects**](https://codepen.io/0Bubbles0) for the **@freeCodeCamp Responsive Web Design** course in February/March 2021
+  2. [**My application to fac22**](https://github.com/0bubbles0/fac-22-application), which is also a good introduction to my life, values and ideas from May 2021
+  3. [**The home of my learnings**](https://github.com/0bubbles0/fac22-pre-projects) when I was accepted into the pre-course
+  4. [**The full project gallery**](https://github.com/fac22/projects-gallery) of the fac22 cohort at @foundersandcoders
+  5. [**My team's final project**](https://github.com/tech-for-better/in-common), which allowed our client **inCommon** to secure grant funding 🌟🎉
+  6. 🏆🎉🌟 My current commercial role 🌟🎉🏆 Working at a fast-paced Start up, I love quickly adapting to new challenges to plan and deliver reliable software solutions across the stack.
+
+
+### 🧰 My Toolbox
+
+<img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"> <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
+
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js">   <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS">   <img width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"> 
+
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Nest.js">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest">   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku">
+
+
+### 📫 Get in touch
+I am always eager to hear stories and experiences from other developers, so please connect with me, raise Issues in my repos with feedback, recommendations or ask me for advice yourself! 👍
+
 <!--
 🌱*Current Program*: Pre-apprenticeship with **Founders and Coders Cohort 22**
 
@@ -36,7 +58,7 @@ If you'd like to view my progress yourself, please visit
 The coming months will be very exciting, as our cohort will be diving into topics such as **React**, **Databases**, **Testing** and **Deployment** to really round our developer toolkits. Personally, I will also be working on improving my design and accessibility skills, so that I can very soon make an impact by helping to bring real solutions and visions to life!
 -->
 
-📫 I am always eager to hear stories and experiences from other developers, so please connect with me, raise Issues in my repos with feedback, recommendations or ask me for advice yourself! 👍
+
 
 
 
@@ -54,3 +76,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+
+<!--[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0/github-readme-stats)-->
