@@ -9,10 +9,10 @@
 
 ### 🚆 My road to coding
 
-  1. [**My entirely self-taught projects**](https://codepen.io/0Bubbles0) for the **@freeCodeCamp Responsive Web Design** course in February/March 2021
+  1. [**My entirely self-taught projects**](https://codepen.io/0Bubbles0) for the **freeCodeCamp Responsive Web Design** course in February/March 2021
   2. [**My application to fac22**](https://github.com/0bubbles0/fac-22-application), which is also a good introduction to my life, values and ideas from May 2021
   3. [**The home of my learnings**](https://github.com/0bubbles0/fac22-pre-projects) when I was accepted into the pre-course
-  4. [**The full project gallery**](https://github.com/fac22/projects-gallery) of the fac22 cohort at @foundersandcoders
+  4. [**The full project gallery**](https://github.com/fac22/projects-gallery) of the fac22 cohort at [**@foundersandcoders**](https://github.com/foundersandcoders) 
   5. [**My team's final project**](https://github.com/tech-for-better/in-common), which allowed our client **inCommon** to secure grant funding 🌟🎉
   6. 🏆🎉🌟 My current commercial role 🌟🎉🏆 Working at a fast-paced Start up, I love quickly adapting to new challenges to plan and deliver reliable software solutions across the stack.
 
