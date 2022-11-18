@@ -2,6 +2,8 @@
 
 #### My name is Barbara, I'm a London-based Software Engineer
 
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bubbles0)](https://github.com/0bubbles0/github-readme-stats)
+
 😄 *Pronouns*: she/her
 
 ⚡ Fun fact: I like playing the violin & can name all the countries of the world
