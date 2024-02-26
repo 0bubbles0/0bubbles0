@@ -32,7 +32,7 @@ Working at a fast-paced Start up, I love quickly adapting to new challenges to p
 
 ### Front end:
 
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS"> <img width="50" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook">
+<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"> <img width="75" style="margin:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="TailwindCSS"> <img width="50" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook">
 
 ### Back end:
 
