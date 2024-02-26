@@ -28,25 +28,15 @@ Working at a fast-paced Start up, I love quickly adapting to new challenges to p
 
 ## 🧰 My Toolbox
 
-<img width="70" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-<img width="70" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+<img width="70" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"> <img width="70" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 
 ### Front end:
 
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js">
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS">
-<img width="50" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma">
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook">
+<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS"> <img width="50" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook">
 
 ### Back end:
 
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
-<img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="Nest.js">
-<img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" alt="Node Fastify">
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"> 
-<img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL">
+<img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node"> <img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="Nest.js"> <img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" alt="Node Fastify"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"> <img width="75" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"> <img width="75" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL">
 
 <!-- <img width="75" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git"> -->
 <!-- <img width="75" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm">  -->
